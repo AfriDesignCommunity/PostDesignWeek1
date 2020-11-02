@@ -1,3 +1,3 @@
-# PostDesignWeek1
+# PostDesign
 
 Post Design inviting people to join the community
